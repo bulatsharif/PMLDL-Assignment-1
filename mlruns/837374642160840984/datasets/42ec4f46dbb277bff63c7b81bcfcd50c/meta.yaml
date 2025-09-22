@@ -1,0 +1,8 @@
+digest: eaee607a
+name: dataset
+profile: '{"num_rows": 156, "num_elements": 312}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "label", "required": true},
+  {"type": "long", "name": "predictions", "required": true}]}'
+source: '{"tags": {"mlflow.user": "bulatsaripov", "mlflow.source.name": "code/models/train_model.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "d0cf3b8e5b7cea78bdd91bb3ec6af80555231417"}}'
+source_type: code

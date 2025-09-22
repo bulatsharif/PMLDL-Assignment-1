@@ -1,0 +1,10 @@
+artifact_location: file:///Users/bulatsaripov/Desktop/Courses%20%5BInno%5D/PMLDL/Assignment1/PMLDL-Assignment-1/mlruns/837374642160840984/models/m-d4aa0c5fae0549f19d6d1d840e22be95/artifacts
+creation_timestamp: 1758556260156
+experiment_id: '837374642160840984'
+last_updated_timestamp: 1758556261956
+model_id: m-d4aa0c5fae0549f19d6d1d840e22be95
+model_type: null
+name: titanic_model
+source_run_id: b5a8a1cfc9f049b195c00d03855e11b4
+status: 2
+status_message: null
