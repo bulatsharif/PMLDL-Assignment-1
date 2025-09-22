@@ -1,0 +1,12 @@
+
+.DS_Store
+.AppleDouble
+.LSOverride
+.vscode
+.venv
+
+*.o
+*.so
+*.dylib
+
+*.pyc
