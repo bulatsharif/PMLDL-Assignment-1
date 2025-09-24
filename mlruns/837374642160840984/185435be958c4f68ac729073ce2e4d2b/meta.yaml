@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/bulatsaripov/Desktop/Courses%20%5BInno%5D/PMLDL/Assignment1/PMLDL-Assignment-1/mlruns/837374642160840984/185435be958c4f68ac729073ce2e4d2b/artifacts
+end_time: 1758704191600
+entry_point_name: ''
+experiment_id: '837374642160840984'
+lifecycle_stage: active
+run_id: 185435be958c4f68ac729073ce2e4d2b
+run_name: run 01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758704189035
+status: 3
+tags: []
+user_id: bulatsaripov
